@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"a4_designpatterns"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"Facade"},{"l":"Factory"},{"l":"Shape"},{"l":"Singleton"}];updateSearchResults();
